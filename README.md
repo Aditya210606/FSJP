@@ -1,2 +1,2 @@
 # FSJP
-Full Stack Java Programming 
+Core java
